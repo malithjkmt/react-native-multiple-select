@@ -51,7 +51,6 @@ export default class sample extends Component {
           selectText="Pick Items"
           searchInputPlaceholderText="Search Items..."
           altFontFamily="ProximaNova-Light"
-          largeTags
           tagRemoveIconColor="#CCC"
           tagBorderColor="#CCC"
           tagTextColor="#CCC"
